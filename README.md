@@ -27,7 +27,8 @@ A dynamic and interactive **Weather App** built using **HTML, CSS, and JavaScrip
 
 ## 📸 Preview  
 
-_(Attach a screenshot of your Weather App here to showcase the UI)_  
+![image](https://github.com/user-attachments/assets/8a9ff19c-ed20-448a-84f0-75af1882312a)
+
 
 ## 📌 How to Use  
 
@@ -39,7 +40,7 @@ _(Attach a screenshot of your Weather App here to showcase the UI)_
 
 ## 🌍 Live Demo  
 
-🔗 [Try the Weather App here](https://nivedhreddy2048.github.io/Weather-App/)  
+🔗 https://nivedhreddy2048.github.io/Weather-App/ 
 
  
 
